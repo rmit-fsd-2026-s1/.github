@@ -1,9 +1,4 @@
 ## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
 🙋‍♀️ A short introduction - what is your organization all about?
 RMIT Full Stack Development and Further Web Programming courses 2026 Semester 1
 
@@ -19,8 +14,14 @@ Assignment 1
 Assignment 2
 
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-This is to be used as a supplementary resource.   
-You need to be officially enrolled at RMIT Full Stack Development / Further Web Programming course to get the full access to lessons and course materials.
+This is to be used as a supplementary reference for students enrolled in RMIT Full Stack Development / Further Web Programming.
+You need to be officially enrolled at RMIT in a Bachelor or Master course at School of Computing Technologies to get the full access to lessons and course materials.
+
+
+<!--
+
+**Here are some ideas to get you started:**
+
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->

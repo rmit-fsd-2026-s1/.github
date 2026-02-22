@@ -11,12 +11,17 @@ You will be creating repos in the provided GitHub Classroom https://classroom.gi
 Please accept the invite to the following repos. 
 Once accepted each student will be created your own private repository, in which you should use to submit your assignments.  
 --
-- Git and Github https://classroom.github.com/a/dOxEsbot
+- Git and Github https://classroom.github.com/a/dOxEsbot  
+  A practice playground for your VS Code and GitHub repository synchronisation. This will not be marked.
 - Weekly practical exercises  https://classroom.github.com/a/zjK-vxOW
-Very usefull portfolio for reference during Assessment Task 3: The Individual Programming Test
-- A1: Assignment 1 https://classroom.github.com/a/1ziuEB2b  
+  Very usefull portfolio for reference during Assessment Task 3: The Individual Programming Test.
+  This will not be marked, however your A3 will be mostly based on the weekly practical materials.
+- A1: Assignment 1 https://classroom.github.com/a/1ziuEB2b
+  This will be marked.
 - A2: Assignment 2 https://classroom.github.com/a/YKhztLFS
-- A3: The Individual Programming Test https://classroom.github.com/a/2vNbn3g9 
+  This will be marked.
+- A3: The Individual Programming Test https://classroom.github.com/a/2vNbn3g9
+  This will be marked.
 
 
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?  

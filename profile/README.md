@@ -7,11 +7,17 @@ If you see this, you are in the right course.
 🌈 Contribution guidelines - how can the community get involved?  
 We will be using GitHub Classroom to protect your intellectual properties, that is the code that you are going to produce throughout the semester.
 
-You will be creating repos in the provided GitHub Classroom projects:
+You will be creating repos in the provided GitHub Classroom https://classroom.github.com/classrooms/260782957-rmit-fsd-2026-s1-classroom  
+Please accept the invite to the following repos. 
+Once accepted each student will be created your own private repository, in which you should use to submit your assignments.  
+--
+- Git and Github https://classroom.github.com/a/dOxEsbot
+- Weekly practical exercises  https://classroom.github.com/a/zjK-vxOW
+Very usefull portfolio for reference during Assessment Task 3: The Individual Programming Test
+- A1: Assignment 1 https://classroom.github.com/a/1ziuEB2b  
+- A2: Assignment 2 https://classroom.github.com/a/YKhztLFS
+- A3: The Individual Programming Test https://classroom.github.com/a/2vNbn3g9 
 
-Weekly practical portfolio (very usefull when you need to pass Assessment Task 3: The Individual Programming Test)
-Assignment 1
-Assignment 2
 
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?  
 This is to be used as a supplementary reference for students enrolled in RMIT Full Stack Development / Further Web Programming.

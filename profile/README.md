@@ -9,7 +9,7 @@ We will be using GitHub Classroom to protect your intellectual properties, that 
 
 You will be creating repos in the provided GitHub Classroom https://classroom.github.com/classrooms/260782957-rmit-fsd-2026-s1-classroom  
 Please accept the invite to the following repos. 
-Once accepted each student will be created your own private repository, in which you should use to submit your assignments.  
+Once accepted, a GitHub Classroom repo will be automatically created for you, in which you should use to submit your assignments. Each repo created will be a 'private' repo set by default and only visible to you and the teaching team.  
 --
 - Git and Github https://classroom.github.com/a/dOxEsbot  
   A practice playground for your VS Code and GitHub repository synchronisation. This will not be marked.

@@ -8,7 +8,7 @@ If you see this, you are in the right course.
 We will be using GitHub Classroom to protect your intellectual properties, that is the code that you are going to produce throughout the semester.
 
 You will be creating repos in the provided GitHub Classroom https://classroom.github.com/classrooms/260782957-rmit-fsd-2026-s1-classroom  
-Please accept the invite to the following repos. 
+Please click on the relevant links to get an invite to a specific GitHub Classroom. 
 Once accepted, a GitHub Classroom repo will be automatically created for you, in which you should use to submit your assignments. Each repo created will be a 'private' repo set by default and only visible to you and the teaching team.  
 --
 - Git and Github https://classroom.github.com/a/dOxEsbot  

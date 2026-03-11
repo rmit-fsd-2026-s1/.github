@@ -6,6 +6,7 @@ If you see this, you are in the right course.
 
 Examples from Lectorials:   
 - Week 1 https://github.com/rmit-fsd-2026-s1/lectorial01
+- Week 2 https://github.com/rmit-fsd-2026-s1/lectorial02  
 
 
 🌈 Contribution guidelines - how can the community get involved?  

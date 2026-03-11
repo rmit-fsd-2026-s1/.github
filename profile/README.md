@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello students in Full Stack Development 👋
 🙋‍♀️ A short introduction - what is your organization all about?  
 RMIT Full Stack Development and Further Web Programming courses 2026 Semester 1
 
@@ -12,7 +12,7 @@ Examples from Lectorials:
 We will be using GitHub Classroom to protect your intellectual properties, that is the code that you are going to produce throughout the semester.
   
 You will be creating repos in the provided GitHub Classroom https://classroom.github.com/classrooms/260782957-rmit-fsd-2026-s1-classroom  
-Please click on the relevant links to get an invitation to a specific GitHub Classroom assignment. 
+Please click on the relevant links below to get an invitation to a specific GitHub Classroom assignment. 
 Once accepted, a GitHub Classroom repo will be automatically created for you, in which you should use to submit your assignments. Each repo created will be a 'private' repo set by default and only visible to you and the teaching team.
   
 --

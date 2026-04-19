@@ -10,6 +10,7 @@ Examples from Lectorials:
 - Week 3 https://github.com/rmit-fsd-2026-s1/lectorial03.git
 - Week 4 https://github.com/rmit-fsd-2026-s1/lectorial04.git
 - Week 5 https://github.com/rmit-fsd-2026-s1/lectorial05.git
+- Week 6 onwards https://github.com/rmit-fsd-2026-s1/lectorial06-onwards.git
 
 
 🌈 Contribution guidelines - how can the community get involved?  

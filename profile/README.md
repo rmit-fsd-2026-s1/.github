@@ -4,20 +4,22 @@ RMIT Full Stack Development and Further Web Programming courses 2026 Semester 1
 
 If you see this, you are in the right course.
 
-# Lecture notes:  
+**Lecture notes**:  
 https://github.com/rmit-fsd-2026-s1/fsd2026s1-lecturenotes
 
-# Lectorial session 11/5/26 2:30pm on MS Team
+**Lectorial session 11/5/26 2:30pm on MS Team**  
 Join:
 https://teams.microsoft.com/meet/45538160272260?p=iuYn8sGVeWqK6nADLZ  
 Meeting ID:
-455 381 602 722 60
-  
+455 381 602 722 60  
 Passcode:
 5bg3B65a
 
+**In-person lectorial sessions:**  
+Mondays 2:30pm in B080-01-002  
+Fridays 3:30pm in B056-05-085  
 
-# Examples from Lectorials:   
+**Examples from Lectorials**  
 - Week 1 https://github.com/rmit-fsd-2026-s1/lectorial01.git
 - Week 2 https://github.com/rmit-fsd-2026-s1/lectorial02.git
 - Week 3 https://github.com/rmit-fsd-2026-s1/lectorial03.git
@@ -26,6 +28,7 @@ Passcode:
 - Week 6 onwards https://github.com/rmit-fsd-2026-s1/lectorial06-onwards.git
 
 
+## GitHub Classroom Repos
 🌈 Contribution guidelines - how can the community get involved?  
 We will be using GitHub Classroom to protect your intellectual properties, that is the code that you are going to produce throughout the semester.
   
@@ -33,12 +36,15 @@ You will be creating repos in the provided GitHub Classroom https://classroom.gi
 Please click on the relevant links below to get an invitation to a specific GitHub Classroom assignment. 
 Once accepted, a GitHub Classroom repo will be automatically created for you, in which you should use to submit your assignments. Each repo created will be a 'private' repo set by default and only visible to you and the teaching team.
   
---
+--  
+**Practice repos**  
 - Git and Github https://classroom.github.com/a/dOxEsbot  
   A practice playground for your VS Code and GitHub repository synchronisation. This will not be marked.
 - Weekly practical exercises  https://classroom.github.com/a/zjK-vxOW
   Very usefull portfolio for reference during Assessment Task 3: The Individual Programming Test.
   This will not be marked, however your A3 will be mostly based on the weekly practical materials.
+
+**Assessment repos**
 - A1: Assignment 1 https://classroom.github.com/a/1ziuEB2b
   This will be marked.
 - A2: Assignment 2 https://classroom.github.com/a/YKhztLFS

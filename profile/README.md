@@ -1,13 +1,13 @@
-## Hello students in Full Stack Development 👋
+# Hello students in Full Stack Development 👋
 🙋‍♀️ A short introduction - what is your organization all about?  
 RMIT Full Stack Development and Further Web Programming courses 2026 Semester 1
 
 If you see this, you are in the right course.
 
-Lecture notes:
+# Lecture notes:  
 https://github.com/rmit-fsd-2026-s1/fsd2026s1-lecturenotes
 
-Lectorial session 11/5/26 2:30pm on MS Team
+# Lectorial session 11/5/26 2:30pm on MS Team
 Join:
 https://teams.microsoft.com/meet/45538160272260?p=iuYn8sGVeWqK6nADLZ  
 Meeting ID:
@@ -17,7 +17,7 @@ Passcode:
 5bg3B65a
 
 
-Examples from Lectorials:   
+# Examples from Lectorials:   
 - Week 1 https://github.com/rmit-fsd-2026-s1/lectorial01.git
 - Week 2 https://github.com/rmit-fsd-2026-s1/lectorial02.git
 - Week 3 https://github.com/rmit-fsd-2026-s1/lectorial03.git

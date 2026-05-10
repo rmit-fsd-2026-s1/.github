@@ -9,10 +9,10 @@ https://github.com/rmit-fsd-2026-s1/fsd2026s1-lecturenotes
 
 Lectorial session 11/5/26 2:30pm on MS Team
 Join:
-https://teams.microsoft.com/meet/45538160272260?p=iuYn8sGVeWqK6nADLZ
+https://teams.microsoft.com/meet/45538160272260?p=iuYn8sGVeWqK6nADLZ  
 Meeting ID:
 455 381 602 722 60
-
+  
 Passcode:
 5bg3B65a
 

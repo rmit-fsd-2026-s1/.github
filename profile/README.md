@@ -4,6 +4,9 @@ RMIT Full Stack Development and Further Web Programming courses 2026 Semester 1
 
 If you see this, you are in the right course.
 
+Lecture notes:
+https://github.com/rmit-fsd-2026-s1/fsd2026s1-lecturenotes
+
 Examples from Lectorials:   
 - Week 1 https://github.com/rmit-fsd-2026-s1/lectorial01.git
 - Week 2 https://github.com/rmit-fsd-2026-s1/lectorial02.git

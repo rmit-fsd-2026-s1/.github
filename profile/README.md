@@ -25,7 +25,7 @@ Fridays 3:30pm in B056-05-085
 - Week 3 https://github.com/rmit-fsd-2026-s1/lectorial03.git
 - Week 4 https://github.com/rmit-fsd-2026-s1/lectorial04.git
 - Week 5 https://github.com/rmit-fsd-2026-s1/lectorial05.git
-- Week 6 onwards https://github.com/rmit-fsd-2026-s1/lectorial06-onwards.git
+- Week 6-9 https://github.com/rmit-fsd-2026-s1/lectorial06-onwards.git
 
 
 ## GitHub Classroom Repos
